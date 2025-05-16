@@ -1,0 +1,9 @@
+juba-massage-app/
+├── main.py            (your Python code)
+├── requirements.txt   (add: kivy==2.1.0 kivymd pillow)
+├── buildozer.spec     (build configuration)
+├── README.md          (documentation)
+└── assets/            (put all images here)
+    ├── spa1.jpg
+    ├── swedish.jpg
+    └── logo.png
